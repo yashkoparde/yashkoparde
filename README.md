@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @yashkoparde
-- 👀 I’m interested in Front End Dev, Testing, SaaS Creation, Project Managing and Planning and Team Building, 
-- 🌱 I’m currently learning Node.js and Cloud Computing
-- 💞️ I’m looking to collaborate on Projects, Front End Devs and SaaS Creation
-- 📫 Email me for queries and collaborations @yashkoparde2022@gmail.com
-- 😄 Pronouns: He/Xim
-- ⚡ Fun fact: I can speak English, Hindi, Kannadda, Marathi and German.
+const YashKoparde= {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass","Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "NestJS"],
+            python: ["Flask" , ":Tkinter],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "S3", "CloudWatch"],
+        },
+        databases: ["MYSQL", "MongoDB", "SQLite"]
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can Debug, Develop and Test simontaneouly while sleeping!"
+};
 
-<!---
-yashkoparde/yashkoparde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
