@@ -91,11 +91,5 @@ const aYashKoparde = {
         databases: ["Relational", "NoSQL", "In-memory"]
     },
     currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can Debug, Develop, and Test simultaneously while sleeping! 🌙"
-};
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-};
+    funFact: "I can Debug, Develop, and Test simultaneously while sleeping! 🌙"}
+]
