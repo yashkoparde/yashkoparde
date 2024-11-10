@@ -23,11 +23,11 @@ I'm a tech enthusiast navigating the worlds of web and app development, cloud co
 - **Cross-platform**: Flutter
 
 #### DevOps & Cloud 🌐
-- Containers and CI/CD with **Docker🐳**, GitHub Actions, and Nginx
+- GitHub Actions and Nginx
 - Cloud services: **AWS** (Fargate, S3, CloudWatch)
 
 #### Databases
-- Relational and NoSQL favorites: MySQL, MongoDB, SQLite
+- MySQL, SQLite
 
 #### Misc Tech
 - Real-time with **Socket.IO** and **WebSockets**
