@@ -57,32 +57,42 @@ I'm a tech enthusiast navigating the worlds of web and app development, cloud co
 
 Reach out if you want to talk code, AI, or just need a new Docker meme!
 
-const YashKoparde= {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python"],
+```javascript
+// Hey there! 👋 I'm Yash Koparde
+
+const aYashKoparde = {
+    pronouns: "He/Him",
+    code: ["TypeScript", "JavaScript", "Python"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Sass","Bootstrap"]
+            css: ["Sass", "Bootstrap"]
         },
         backEnd: {
             js: ["Node", "NestJS"],
-            python: ["Flask" , ":Tkinter],
+            python: ["Flask", "Tkinter"]
         },
         mobileApp: {
-            crossPlatform: ["Flutter"],
+            crossPlatform: ["Flutter"]
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: {
-            aws: ["AWS Fargate", "S3", "CloudWatch"],
+            aws: ["AWS Fargate", "S3", "CloudWatch"]
         },
-        databases: ["MYSQL", "MongoDB", "SQLite"]
+        databases: ["MySQL", "MongoDB", "SQLite"],
         misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        generativeAI: ["GPT", "Vectorization"]
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"]
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can Debug, Develop, and Test simultaneously while sleeping! 🌙"
+};
         backEnd: ["microservices", "monolithic", "serverless"],
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
