@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Yash Koparde
 
 > Pronouns: He/Him  
-> Coding languages: TypeScript, JavaScript, Python  
+> Coding languages: Html, JavaScript, Python  
 > Current focus: Leading the charge in generative AI innovation 🌌
 
 ### A little about me:
@@ -9,7 +9,6 @@ I'm a tech enthusiast navigating the worlds of web and app development, cloud co
 
 ---
 ```javascript
-// Hey there! 👋 I'm Yash Koparde
 
 const YashKoparde = {
     pronouns: "He/Him",
