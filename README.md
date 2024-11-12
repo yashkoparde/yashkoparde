@@ -60,7 +60,7 @@ Reach out if you want to talk code, AI, or just need a new Docker meme!
 ```javascript
 // Hey there! 👋 I'm Yash Koparde
 
-const aYashKoparde = {
+const YashKoparde = {
     pronouns: "He/Him",
     code: ["TypeScript", "JavaScript", "Python"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
