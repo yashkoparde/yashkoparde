@@ -17,7 +17,7 @@ const YashKoparde = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Sass", "Bootstrap"]
+            css: ["Bootstrap"]
         },
         backEnd: {
             js: ["Node", "NestJS"],
