@@ -2,7 +2,7 @@
 
 > Pronouns: He/Him  
 > Coding languages: Html, JavaScript, Python  
-> Current focus: Leading the charge in generative AI innovation 🌌
+> Current focus: Django and MongoDB 🌌
 
 ### A little about me:
 I'm a tech enthusiast navigating the worlds of web and app development, cloud computing, and the latest in UI/UX trends. When I'm not coding, I'm probably dreaming up ways to make machines a little smarter (and maybe just a bit more sarcastic).
