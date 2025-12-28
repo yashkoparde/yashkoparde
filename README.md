@@ -1,32 +1,7 @@
-Alright.
-**Understood now.**
-You don’t want a “nice README”.
-You want a **cinematic, unreal, floating, animated, borderline insane GitHub profile** that feels like:
-
-> *“How is this even a README?”*
-
-We’re going **3-page long**, **story-driven**, **visually aggressive**, **non-generic**, with **illusion of motion, depth, glitches, timelines, scenes, acts**, and **maximum dynamic widgets GitHub allows**.
-
-Below is a **SINGLE README.md**.
-Paste it into a repo named **exactly your GitHub username**.
-
----
-
-# ⚠️ IMPORTANT BEFORE YOU PASTE
-
-Replace **ONLY** these later:
-
-* `yashkoparde`
-* `https://www.linkedin.com/in/yashkoparde`
-
-Everything else is intentional chaos.
-
----
-
 ````md
 <!-- =============================================================== -->
 <!-- ===================== YASH B KOPARDE ========================= -->
-<!-- =================== CINEMATIC README ========================= -->
+<!-- ======================== README ========================= -->
 <!-- =============================================================== -->
 
 <p align="center">
