@@ -1,15 +1,11 @@
-
-<!-- ====================================================================== -->
-<!-- ============================ YASH KOPARDE ============================ -->
-<!-- ====================== PREMIUM GITHUB PROFILE ======================== -->
-<!-- ====================================================================== -->
+<!-- ========================== YASH KOPARDE ========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=YASH%20KOPARDE&fontColor=E5E7EB&fontSize=92&height=160&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=YASH%20KOPARDE&fontColor=ffffff&fontSize=85&height=170&animation=fadeIn&stroke=38bdf8"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=Computer+Science+Engineer+in+the+Making;Builder+of+Systems%2C+Not+Slides;DSA+%7C+Web+%7C+Cloud+%7C+Problem+Solving;Obsessed+With+Execution+and+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=1000&lines=DSA+%7C+SYSTEMS+%7C+WEB+%7C+CLOUD;BUILDING+REAL+THINGS;EXECUTION+OVER+NOISE;CONSISTENCY+WINS" />
 </p>
 
 <p align="center">
@@ -18,63 +14,34 @@
 
 ---
 
-## 🧠 IDENTITY
-
-```text
-Name        → Yash Koparde
-Discipline  → Computer Science & Engineering
-Focus       → Building real systems
-Mentality   → Long-term > short-term
-````
-
-I don’t chase hype.
-I don’t collect certificates.
-I **compound skill**.
-
-I believe great engineers:
-
-* think in **systems**
-* respect **fundamentals**
-* ship **working code**
-* and let results speak.
-
----
-
-## ⚙️ CORE STACK (FLOATING GRID)
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,html,css,tailwind,git,linux,aws&perline=6"/>
 </p>
 
 <p align="center">
-  <sub>Minimal tools. Maximum leverage.</sub>
+  <img src="https://user-images.githubusercontent.com/74038190/216656970-2c1f3e58-65cc-4d94-9c5a-7fbdc7f42a56.gif" width="420"/>
 </p>
 
 ---
-
-## 🧬 TECHNICAL DEPTH
-
-### Languages
-
-* **C++** — performance, memory, clarity of logic
-* **Python** — rapid prototyping & automation
-* **JavaScript / TypeScript** — real-world product glue
-
-### Engineering
-
-* Data Structures & Algorithms
-* Object-Oriented Design
-* APIs & backend workflows
-* Cloud-first deployment mindset
-
----
-
-## 📈 GITHUB TELEMETRY (LIVE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkoparde&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkoparde&theme=github-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashkoparde&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkoparde&hide_border=true&theme=github-dark" width="49%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkoparde&theme=github_dark"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkoparde&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkoparde&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkoparde&theme=github_dark" width="32%"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkoparde&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
@@ -82,109 +49,35 @@ I believe great engineers:
 
 ---
 
-## 🧠 LANGUAGE DISTRIBUTION
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkoparde&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🐍 CONTRIBUTION FLOW (ANIMATED)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🧭 ENGINEERING PHILOSOPHY
-
-```text
-• Build first, refine later
-• Clarity over cleverness
-• Systems > scripts
-• Consistency beats intensity
-```
-
-I optimize for:
-
-* learning velocity
-* correctness
-* long-term scale
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkoparde&layout=donut&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
-
-## 🛠️ WHAT I BUILD
-
-* Full-stack applications with real users
-* Hackathon products under pressure
-* Cloud-deployed systems
-* Logic-heavy problem-solving pipelines
-
-I prefer **hard problems** over pretty demos.
-
----
-
-## 📌 CURRENT DIRECTION
-
-* Sharpening **C++ + DSA**
-* Scaling **full-stack systems**
-* Improving **cloud workflows**
-* Writing **cleaner, maintainable code**
-
----
-
-## 🌐 PRESENCE
 
 <p align="center">
   <a href="https://github.com/yashkoparde">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=38bdf8"/>
   </a>
   <a href="https://www.linkedin.com/in/yashkoparde">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
   </a>
 </p>
 
 ---
 
-## 👁️ PROFILE SIGNAL
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashkoparde&label=PROFILE+VIEWS&color=38bdf8&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=yashkoparde&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge"/>
 </p>
-
----
-
-## 🏁 CLOSING NOTE
-
-```text
-This profile evolves automatically.
-As my skill compounds,
-this README upgrades itself.
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2933&height=200&section=footer"/>
 </p>
 
-<!-- ============================ END ============================ -->
-
-```
-
----
-
-### 🔥 This is **elite-tier README**
-- rich but restrained  
-- animated but professional  
-- long but readable  
-- dynamic but clean  
-
-If you want **FINAL BOSS MODE** next:
-- custom SVG banners  
-- auto-updating project showcases  
-- live LeetCode / Codeforces  
-- GitHub Pages cinematic landing  
-
-Say what to unlock next.
-```
+<!-- ========================== END ========================== -->
