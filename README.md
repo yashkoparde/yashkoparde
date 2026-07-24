@@ -94,67 +94,7 @@ I'm working towards becoming the kind of engineer who can take an idea from:
 Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a system that needs to scale : **I'm interested in building things that exist beyond the "what if."**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkoparde&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkoparde&hide_border=true&theme=github-dark" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkoparde&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkoparde&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkoparde&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkoparde&theme=github_dark" width="32%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkoparde&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkoparde&layout=donut&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashkoparde&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashkoparde&theme=dark&hide_border=false"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashkoparde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashkoparde&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
-### Quote of the Day & Top Contributed Repo
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yashkoparde&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
 ## 💻 Tech Stack
-
-
 ### Languages
 <p align="center">
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -215,6 +155,63 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 </p>
 
 <div align="center">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashkoparde&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkoparde&hide_border=true&theme=github-dark" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkoparde&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkoparde&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkoparde&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkoparde&theme=github_dark" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkoparde&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkoparde&layout=donut&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=yashkoparde&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yashkoparde&theme=dark&hide_border=false"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashkoparde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashkoparde&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+### Quote of the Day & Top Contributed Repo
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yashkoparde&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 ### ☕ Support My Work
 
