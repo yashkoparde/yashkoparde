@@ -148,12 +148,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
   <a href="https://codepen.io/yash-koparde"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a>
   <a href="mailto:yashkoparde2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashkoparde&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge"/>
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=yashkoparde&icon=1&color=0"/></a>
-</p>
-
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -194,12 +188,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashkoparde&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ### Quote of the Day & Top Contributed Repo
