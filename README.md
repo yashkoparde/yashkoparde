@@ -112,6 +112,135 @@
 </p>
 
 # 💫 About Me:
+# 💫 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Hey, I'm Yash Koparde
+
+I'm a **Computer Science & Engineering student, full-stack developer, and product builder** who enjoys turning ambitious ideas into real, working systems.
+
+I don't just learn technologies — I try to **build with them**.
+
+From designing full-stack web applications to experimenting with **AI, blockchain, cloud infrastructure, databases, and scalable systems**, I'm constantly exploring the space between an idea and a product that actually works.
+
+```txt
+┌──────────────────────────────────────────────┐
+│  CURRENTLY                                   │
+│                                              │
+│  → Building real-world products              │
+│  → Solving DSA & system problems              │
+│  → Exploring AI + Web3                       │
+│  → Designing scalable applications            │
+│  → Turning hackathon ideas into products      │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ What I Build
+
+```yaml
+focus:
+  - Full-Stack Applications
+  - AI-Powered Products
+  - Blockchain Systems
+  - Scalable Backend Architecture
+  - Developer Tools
+
+mindset:
+  philosophy: "Execution Over Noise"
+  approach: "Build → Break → Learn → Ship"
+
+currently_exploring:
+  - AI
+  - Cloud
+  - Distributed Systems
+  - Web3
+  - System Design
+```
+
+### 🧠 My Engineering Philosophy
+
+> **"The best way to learn a technology is to build something that needs it."**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🚀 Some Things I've Been Building
+
+| Project                  | What I'm Exploring                                                  |
+| ------------------------ | ------------------------------------------------------------------- |
+| 🔐 **Evidentia**         | AI-assisted evidence verification, cryptographic proof & blockchain |
+| 🛡️ **Parakh / Sanchar** | Secure examination infrastructure, AI & anti-cheating systems       |
+| 💊 **Pharmix**           | Structured medicine data and intelligent digital workflows          |
+| 🌱 **Greenchain**        | Blockchain-powered sustainability concepts                          |
+| 💼 **JobBridge**         | Modern full-stack job and opportunity platform                      |
+| 🍽️ **WHEYO**            | Nutrition, food products, calorie and protein tracking              |
+
+<br>
+
+### 🏆 A Milestone I'm Proud Of
+
+<div align="center">
+
+### 🥇 Top 18 — IIM Bangalore Hackathon
+
+Selected among the **Top 18 teams from approximately 500 teams** with **Evidentia** — an evidence protection and verification platform focused on cryptographic authenticity, AI-assisted verification, and immutable records.
+
+</div>
+
+<br>
+
+### 🎯 The Bigger Picture
+
+I'm working towards becoming the kind of engineer who can take an idea from:
+
+```text
+        💡 IDEA
+          ↓
+    🧠 ARCHITECTURE
+          ↓
+      ⚙️ BUILD
+          ↓
+      🧪 TEST
+          ↓
+      🚀 SHIP
+```
+
+Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a system that needs to scale — **I'm interested in building things that exist beyond the "what if."**
+
+<br>
+
+<div align="center">
+
+### 🌐 Explore what I'm building
+
+<a href="https://github.com/yashkoparde">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yashkoparde">
+  <img src="https://img.shields.io/badge/CONNECT_WITH_ME-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
+</a>
+
+<br><br>
+
+```txt
+BUILDING REAL THINGS.
+LEARNING EVERY DAY.
+EXECUTION OVER NOISE.
+```
+
+</div>
 
 
 ## 🌐 Socials:
