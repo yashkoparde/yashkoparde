@@ -1,6 +1,3 @@
-<!-- ========================== YASH KOPARDE ========================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
 ## About Me
 
 <table>
