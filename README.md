@@ -182,10 +182,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yashkoparde&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 ### ☕ Support My Work
@@ -204,6 +200,7 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3"/>
 </p>
+
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
