@@ -188,6 +188,19 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 
 ### ☕ Support the Build
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=YASH%20KOPARDE&fontColor=ffffff&fontSize=85&height=170&animation=fadeIn&stroke=38bdf8"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=SOFTWARE+ENGINEER+%7C+PRODUCT+BUILDER;FULL+STACK+%7C+SYSTEMS+%7C+AI;BUILDING+SYSTEMS+THAT+SHIP;EXECUTION+OVER+NOISE"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+</p>
+
+
 <p>
   If something I've built helped you, inspired you, or saved you some time,
   you can support the next one.
@@ -208,18 +221,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=YASH%20KOPARDE&fontColor=ffffff&fontSize=85&height=170&animation=fadeIn&stroke=38bdf8"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=SOFTWARE+ENGINEER+%7C+PRODUCT+BUILDER;FULL+STACK+%7C+SYSTEMS+%7C+AI;BUILDING+SYSTEMS+THAT+SHIP;EXECUTION+OVER+NOISE"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
