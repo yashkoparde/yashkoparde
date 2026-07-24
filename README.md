@@ -173,26 +173,11 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkoparde&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkoparde&layout=donut&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashkoparde&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashkoparde&theme=dark&hide_border=false"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashkoparde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-### Quote of the Day & Top Contributed Repo
+### Quote of the Day 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
@@ -207,15 +192,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 
 <a href="https://buymeacoffee.com/yashkoparde"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 <a href="https://ko-fi.com/yashkoparde"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-
-<br><br>
-
-```txt
-BUILDING REAL THINGS.
-LEARNING EVERY DAY.
-EXECUTION OVER NOISE.
-```
-
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&text=YASH%20KOPARDE&fontColor=ffffff&fontSize=85&height=170&animation=fadeIn&stroke=38bdf8"/>
@@ -259,6 +235,12 @@ EXECUTION OVER NOISE.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
+
+```txt
+BUILDING REAL THINGS.
+LEARNING EVERY DAY.
+EXECUTION OVER NOISE.
 ```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2933&height=200&section=footer"/>
