@@ -187,38 +187,75 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 <div align="center">
 
 ### ☕ Support the Build
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=YASH%20KOPARDE&fontColor=ffffff&fontSize=85&height=170&animation=fadeIn&stroke=38bdf8"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=SOFTWARE+ENGINEER+%7C+PRODUCT+BUILDER;FULL+STACK+%7C+SYSTEMS+%7C+AI;BUILDING+SYSTEMS+THAT+SHIP;EXECUTION+OVER+NOISE"/>
-</p>
-
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 </p>
 
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=YASH+KOPARDE;SOFTWARE+ENGINEER;PRODUCT+BUILDER" />
+</h1>
 
 <p>
-  If something I've built helped you, inspired you, or saved you some time,
-  you can support the next one.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4500&pause=1500&color=94A3B8&center=true&vCenter=true&width=800&height=35&lines=Building+systems+that+ship.;Turning+ideas+into+working+products.;Execution+over+noise." />
 </p>
 
-<a href="upi://pay?pa=yashkoparde@slc&pn=Yash%20Koparde&cu=INR">
-  <img src="https://img.shields.io/badge/Support_via_UPI-yashkoparde%40slc-0d1117?style=for-the-badge&logo=googlepay&logoColor=38bdf8"/>
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<b>☕ SUPPORT THE BUILD</b>
+
+<br><br>
+
+<a href="https://buymeacoffee.com/yashkoparde">
+  <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-0d1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FDD835"/>
 </a>
 
 <br><br>
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=upi%3A%2F%2Fpay%3Fpa%3Dyashkoparde%40slc%26pn%3DYash%2520Koparde%26cu%3DINR" width="180"/>
+<a href="https://ko-fi.com/yashkoparde">
+  <img src="https://img.shields.io/badge/KO--FI-0d1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B"/>
+</a>
+
+</td>
+
+<td align="center" width="34%">
+
+<b>⚡ DIRECT UPI</b>
+
+<br><br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=upi%3A%2F%2Fpay%3Fpa%3Dyashkoparde%40slc%26pn%3DYash%2520Koparde%26cu%3DINR" width="170"/>
 
 <br>
 
-<sub><b>UPI ID:</b> yashkoparde@slc</sub>
+<sub><b>Scan to pay</b></sub> <br> <sub><code>yashkoparde@slc</code></sub>
 
-</div>
+</td>
+
+<td align="center" width="33%">
+
+<b>🌐 CONNECT</b>
+
+<br><br>
+
+<a href="https://github.com/yashkoparde">
+  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/yashkoparde">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -226,6 +263,11 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&height=45&lines=DSA+%2F%2F+SYSTEMS+%2F%2F+WEB+%2F%2F+AI+%2F%2F+CLOUD;BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+SHIP" />
+</p>
+
+</div>
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
