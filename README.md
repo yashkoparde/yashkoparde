@@ -184,22 +184,47 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
-### ☕ Support My Work
+<div align="center">
 
-<a href="https://buymeacoffee.com/yashkoparde"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-<a href="https://ko-fi.com/yashkoparde"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+### ☕ Support the Build
+
+<p>
+  If something I've built helped you, inspired you, or saved you some time,
+  you can support the next one.
+</p>
+
+<a href="upi://pay?pa=yashkoparde@slc&pn=Yash%20Koparde&cu=INR">
+  <img src="https://img.shields.io/badge/Support_via_UPI-yashkoparde%40slc-0d1117?style=for-the-badge&logo=googlepay&logoColor=38bdf8"/>
+</a>
+
+<br><br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=upi%3A%2F%2Fpay%3Fpa%3Dyashkoparde%40slc%26pn%3DYash%2520Koparde%26cu%3DINR" width="180"/>
+
+<br>
+
+<sub><b>UPI ID:</b> yashkoparde@slc</sub>
+
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&text=YASH%20KOPARDE&fontColor=ffffff&fontSize=85&height=170&animation=fadeIn&stroke=38bdf8"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=1000&lines=DSA+%7C+SYSTEMS+%7C+WEB+%7C+CLOUD;BUILDING+REAL+THINGS;EXECUTION+OVER+NOISE;CONSISTENCY+WINS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=SOFTWARE+ENGINEER+%7C+PRODUCT+BUILDER;FULL+STACK+%7C+SYSTEMS+%7C+AI;BUILDING+SYSTEMS+THAT+SHIP;EXECUTION+OVER+NOISE"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 </p>
+
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
