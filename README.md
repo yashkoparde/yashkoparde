@@ -170,44 +170,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkoparde&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
 </p>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<b>☕ SUPPORT THE BUILD</b>
-
-<br><br>
-
-<a href="https://buymeacoffee.com/yashkoparde">
-  <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-0d1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FDD835"/>
-</a>
-
-<br><br>
-
-<a href="https://ko-fi.com/yashkoparde">
-  <img src="https://img.shields.io/badge/KO--FI-0d1117?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B"/>
-</a>
-
-</td>
-<b>🌐 CONNECT</b>
-
-<br><br>
-
-<a href="https://github.com/yashkoparde">
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/yashkoparde">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-</td>
-</tr>
-</table>
-
 <br>
 
 ```
