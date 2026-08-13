@@ -171,10 +171,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkoparde&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 <table>
 <tr>
 <td align="center" width="33%">
