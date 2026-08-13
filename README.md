@@ -48,11 +48,6 @@ currently_exploring:
   - Web3
   - System Design
 ```
-
-### 🧠 My Engineering Philosophy
-
-> **"The best way to learn a technology is to build something that needs it."**
-
 </td>
 </tr>
 </table>
