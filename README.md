@@ -257,16 +257,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&height=45&lines=DSA+%2F%2F+SYSTEMS+%2F%2F+WEB+%2F%2F+AI+%2F%2F+CLOUD;BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+SHIP" />
-</p>
-
-</div>
-
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -299,12 +289,3 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
-
-```txt
-BUILDING REAL THINGS.
-LEARNING EVERY DAY.
-EXECUTION OVER NOISE.
-```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2933&height=200&section=footer"/>
-</p>
