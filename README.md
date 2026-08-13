@@ -126,25 +126,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/yashkoparde"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=38bdf8"/></a>
-  <a href="https://www.linkedin.com/in/yashkoparde"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/></a>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/yash.koparde"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://medium.com/@yashkoparde"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-  <a href="https://pinterest.com/yashkoparde"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/></a>
-  <a href="https://x.com/yashkoparde0"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-  <a href="https://youtube.com/@yashkoparde"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-  <a href="https://codepen.io/yash-koparde"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/></a>
-  <a href="mailto:yashkoparde2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <p align="center">
