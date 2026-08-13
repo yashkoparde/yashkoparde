@@ -175,32 +175,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-### Quote of the Day 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
-<div align="center">
-
-### ☕ Support the Build
-<div align="center">
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-</p>
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=YASH+KOPARDE;SOFTWARE+ENGINEER;PRODUCT+BUILDER" />
-</h1>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4500&pause=1500&color=94A3B8&center=true&vCenter=true&width=800&height=35&lines=Building+systems+that+ship.;Turning+ideas+into+working+products.;Execution+over+noise." />
-</p>
-
-<br>
-
 <table>
 <tr>
 <td align="center" width="33%">
