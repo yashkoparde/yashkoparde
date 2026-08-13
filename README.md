@@ -190,23 +190,6 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 </a>
 
 </td>
-
-<td align="center" width="34%">
-
-<b>⚡ DIRECT UPI</b>
-
-<br><br>
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=upi%3A%2F%2Fpay%3Fpa%3Dyashkoparde%40slc%26pn%3DYash%2520Koparde%26cu%3DINR" width="170"/>
-
-<br>
-
-<sub><b>Scan to pay</b></sub> <br> <sub><code>yashkoparde@slc</code></sub>
-
-</td>
-
-<td align="center" width="33%">
-
 <b>🌐 CONNECT</b>
 
 <br><br>
