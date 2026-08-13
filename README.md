@@ -154,7 +154,7 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashkoparde&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkoparde&hide_border=true&theme=github-dark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashkoparde&hide_border=true&theme=github-dark&v=1" width="49%"/>
 </p>
 
 <p align="center">
