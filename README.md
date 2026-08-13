@@ -126,7 +126,7 @@ Whether it's a hackathon prototype, a startup idea, an AI-powered product, or a 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-##  📊 GitHub Stats
+##📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=yashkoparde&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
