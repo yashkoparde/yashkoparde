@@ -8,8 +8,6 @@
 
 I'm a **Computer Science & Engineering student, full-stack developer, and product builder** who enjoys turning ambitious ideas into real, working systems.
 
-I don't just learn technologies — I try to **build with them**.
-
 From designing full-stack web applications to experimenting with **AI, blockchain, cloud infrastructure, databases, and scalable systems**, I'm constantly exploring the space between an idea and a product that actually works.
 
 ```txt
